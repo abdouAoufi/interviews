@@ -16,5 +16,5 @@ const search = (keyword: string = "foo") => {
   return result;
 };
 
-const result = search("fa");
+const result = search("f");
 console.log(result);
